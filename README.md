@@ -21,15 +21,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+Guia Básico de Python: Fundamentos e Principais Conceitos
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+- Bem-vindo ao Guia Básico de Python! Este eBook foi projetado para ajudar iniciantes a dar os primeiros passos na linguagem de programação Python.
+- Python é uma linguagem de programação versátil e poderosa, amplamente utilizada em uma variedade de domínios, incluindo desenvolvimento web, ciência de dados, automação, inteligência artificial e muito mais.
+- Neste guia, vamos explorar os fundamentos de Python, incluindo sintaxe básica, estruturas de dados, controle de fluxo, funções, módulos e além.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei para fazer um ebook básico com os principais temas de Python.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
